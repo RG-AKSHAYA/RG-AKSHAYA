@@ -1,8 +1,7 @@
 # Hey, I'm Akshaya 👋
 
-ECE undergrad at VIT CHENNAI  - passionate about building things that
-exist in the real world — embedded systems, IoT devices, PCB hardware, and
-AI-powered applications.
+ECE undergrad passionate about building things that exist in the real world —
+embedded systems, IoT devices, PCB hardware, and AI-powered applications.
 
 I work across the full stack of hardware and software: from designing PCB
 schematics in KiCad to writing firmware in C++ to training models in Python.
@@ -21,9 +20,28 @@ schematics in KiCad to writing firmware in C++ to training models in Python.
 
 ## 🛠 Tech Stack
 
-**Hardware:** KiCad · ESP8266 · ESP32 · NE555 · MATLAB · Blynk  
-**Languages:** C++ · Python · TypeScript · HTML/CSS  
-**Tools:** Git · VS Code · Arduino IDE
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RG-AKSHAYA&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RG-AKSHAYA&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RG-AKSHAYA&theme=radical&hide_border=true" width="60%" />
+</p>
 
 ---
 
@@ -33,7 +51,7 @@ schematics in KiCad to writing firmware in C++ to training models in Python.
 |---|---|---|
 | [Smart Warehouse Monitor](https://github.com/RG-AKSHAYA/Smart-Warehouse-Monitoring-System) | IoT-based warehouse monitoring with real-time alerts | C++ · ESP8266 · Blynk |
 | [FishSense](https://github.com/RG-AKSHAYA/FishSense-AI-Fish-Freshness-Det) | AI model to detect fish freshness from images | Python · CV |
-| [Real-Time ECG Monitor](https://github.com/RG-AKSHAYA/Real-Time-ECG-Monitoring-System) | ECG signal acquisition and live monitoring system | C++ · ESP8266 |
+| [Real-Time ECG Monitor](https://github.com/RG-AKSHAYA/Real-Time-ECG-Monitoring-System) | ECG signal acquisition and live monitoring | C++ · ESP8266 |
 | [SecureCarry](https://github.com/RG-AKSHAYA/SecureCarry-Intelligent-Smart-S) | Intelligent smart security system | C++ |
 | [PCB Design Projects](https://github.com/RG-AKSHAYA/pcb-designing) | KiCad schematics, layouts & Gerber files | KiCad |
 | [RELO](https://github.com/RG-AKSHAYA/RELO) | Platform connecting clients with service providers | TypeScript |
@@ -51,5 +69,11 @@ schematics in KiCad to writing firmware in C++ to training models in Python.
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rgakshaya-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rgakshaya)
-[![GitHub](https://img.shields.io/badge/GitHub-RG--AKSHAYA-black?style=flat&logo=github)](https://github.com/RG-AKSHAYA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rgakshaya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rgakshaya)
+[![GitHub](https://img.shields.io/badge/GitHub-RG--AKSHAYA-black?style=for-the-badge&logo=github)](https://github.com/RG-AKSHAYA)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RG-AKSHAYA&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
